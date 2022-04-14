@@ -1,3 +1,16 @@
-# WeatherAppInAndroidStudio
-This is amazing weather app which uses open weather api and it can fetch the weather of your current location or any particular city. The UI of the app is completely responsive and you can also watch the detailed tutorial on my Channel
+# Проект по ТРПП студентов группы ИКБО-07-20
 
+## Приложение погоды "ПОГОДАИКА"
+### Потемкин Александр, Кряжевских Владислав, Слюсарчук Александр
+---
+"ПОГОДАИКА" - это приложение для просмотра погоды в вашем городе. Также вы можете узнать погоду в любом городе на ваш выбор, вам нужно будет лишь ввести название города!
+
+Минималистичный интерфейс позволит вам с легкостью получить нужную вам информацию. Минимум кнопок - максимум нужной информациию
+
+Никакой рекламы или слишком сложного функционала, не нужных ни одному пользователю.
+
+С Погодайкой вам больше не прийдется ГАДАТЬ, что происходит на улице.
+
+Вся информация будет у вас в телефоне!
+
+![37-375498_this-is-a-picture-of-a-cloud-with](https://user-images.githubusercontent.com/90202010/163410285-d8bd910e-5fab-41c6-a8d8-9b271cac5b68.jpg)
